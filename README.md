@@ -18,3 +18,5 @@ this project was achived thanks to
 
 * 1_Bubble_Sort.rb Method that Takes in an array and returns it sorted using the **Buble Sort Algorithm**
 
+# Live Version
+[Click to see live](https://repl.it/@AntonioFernand3/Rubby-Bubblesor-and-sortby)
